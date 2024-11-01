@@ -19,5 +19,5 @@ pip install -r requirements.txt
 4. Запустити файл
 
 ```bash
-python LR_1_task_{потрібний-номер завдання}.py
+python LR_0_task_1.py
 ```
